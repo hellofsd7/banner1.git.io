@@ -1,0 +1,78 @@
+          body {
+              margin-left: auto;
+              height: 960px;
+              font-family: 'Poppins', sans-serif;
+          }
+          
+          .logo {
+              font-size: 40px;
+              color: #19AEC2;
+              text-align: center;
+          }
+          
+          .logo span {
+              color: #F1C224;
+          }
+          
+          .blue {
+              background-color: #2992a0;
+              text-align: center;
+              color: white;
+          }
+          
+          #seco {
+              color: #325B72;
+              font-weight: bold;
+          }
+          
+          #small {
+              color: #19AEC2;
+          }
+          
+          #txt {
+              text-align: center;
+          }
+          
+          #seto {
+              color: #19AEC2;
+          }
+          
+          #df2f {
+              font-weight: bold;
+              font-size: 300%;
+          }
+          
+          .logs {
+              color: #19AEC2;
+          }
+          
+          .logs span {
+              color: #F1C224;
+              text-align: center;
+          }
+          
+          .seto span {
+              text-align: center;
+              color: #F1C224;
+              font-weight: bolder
+          }
+          
+          .set {
+              font-size: 161.6%;
+              color: #19AEC2;
+          }
+          
+          #df22f {
+              font-weight: bold;
+          }
+          
+          #df22fs {
+              font-size: 100%;
+              color: #19AEC2;
+              font-weight: bold;
+          }
+          
+          #yellow1 {
+              text-align: center;
+              color: #F1C224;
+          }
